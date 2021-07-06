@@ -24,3 +24,17 @@
 * É por isso que a maioria dos e-commerces têm sites em HTTPS e o próprio navegador informa que é seguro digitar dados pessoais caso deseje realizar alguma ação, como uma compra online.
 
 * Ou seja, sem HTTPS, qualquer dado inserido no site (nome, e-mail, senhas, cartão de crédito, e afins) são enviados em forma de texto simples, sendo, portanto, suscetíveis a intercepção ou interceptação. Por isso, mesmo se o site da sua empresa for voltado somente a informações sobre o seu negócio, opte por tê-lo em HTTPS.
+
+# Front-End e Back-End
+
+## Front-End
+
+* Como o próprio nome já sugere, o desenvolvimento front-end abrange a configuração e o design de tudo o que nós vemos quando usamos um site ou um app. É o lado visual do trabalho que normalmente atrai os programadores que se interessam por design gráfico. A tarefa desses programadores é criar interfaces bonitas e intuitivas, tornando a experiência do usuário muito fluida e intuitiva.
+
+* Para desenvolver essas interfaces, os programadores usam três ferramentas principais: HTML, CSS e JavaScript. É importante dizer que especialmente a linguagem JavaScript vem ganhando espaço no desenvolvimento front-end, substituindo outras tecnologias, como a JQuery, que acabou se tornando obsoleta. Outros frameworks foram criados dentro do JavaScript, como o React e o Angular, que facilitam o trabalho de um programador e que permitem a criação de elementos que são posteriormente replicados em outras áreas da plataforma em construção.
+
+## Back-End
+
+* Aqueles que decidem por se especializar no desenvolvimento back-end são aqueles que preferem configurar bancos de dados, descobrir como otimizar o desempenho do servidor e assim poder lidar adequadamente com a carga de trabalho; e são, ainda, aqueles que sabem tirar proveito dos recursos que as APIs de terceiros podem fornecer para alcançar funcionalidades excelentes. Ou seja, um desenvolvedor back-end lida com tudo o que está fora da visão dos usuários que visitam um site ou um app e fornecem seus dados para registrar ou fazer uma compra nessa plataforma.
+
+* Os desenvolvedores back-end usam muitas linguagens de programação diferentes no dia a dia, como o PHP, Ruby, Python, Java ou JavaScript. O trabalho deles é garantir que os sites funcionem sem problemas e otimizar o tempo de resposta. Atualmente, o trabalho de um desenvolvedor back-end é cada vez mais valorizado, já que as páginas se tornaram cada vez mais dinâmicas e demandam atualizações constantes, ao contrário de alguns anos atrás, quando os sites e aplicativos eram mais estáticos. Além disso, eles precisam ter bastante conhecimento sobre bancos de dados relacionais, como o MySQL e o Oracle, e bancos de dados não relacionais, como o MongoDB.
