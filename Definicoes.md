@@ -38,3 +38,28 @@
 * Aqueles que decidem por se especializar no desenvolvimento back-end são aqueles que preferem configurar bancos de dados, descobrir como otimizar o desempenho do servidor e assim poder lidar adequadamente com a carga de trabalho; e são, ainda, aqueles que sabem tirar proveito dos recursos que as APIs de terceiros podem fornecer para alcançar funcionalidades excelentes. Ou seja, um desenvolvedor back-end lida com tudo o que está fora da visão dos usuários que visitam um site ou um app e fornecem seus dados para registrar ou fazer uma compra nessa plataforma.
 
 * Os desenvolvedores back-end usam muitas linguagens de programação diferentes no dia a dia, como o PHP, Ruby, Python, Java ou JavaScript. O trabalho deles é garantir que os sites funcionem sem problemas e otimizar o tempo de resposta. Atualmente, o trabalho de um desenvolvedor back-end é cada vez mais valorizado, já que as páginas se tornaram cada vez mais dinâmicas e demandam atualizações constantes, ao contrário de alguns anos atrás, quando os sites e aplicativos eram mais estáticos. Além disso, eles precisam ter bastante conhecimento sobre bancos de dados relacionais, como o MySQL e o Oracle, e bancos de dados não relacionais, como o MongoDB.
+
+# HTML CSS E JAVASCRIPT
+
+## HTML
+* Seu nome tem origem do inglês *Hyper Text Markup Language*, que significa “linguagem de marcação de hipertexto”.
+
+* Imagine uma página web, como essa mesmo que você esta lendo agora. É possível perceber que existem diversos elementos separados, como cabeçalho, título, parágrafos, imagens e muitos outros. Toda a organização desses elementos é feita pelo HTML. Ele é utilizado para criar toda a estrutura (esqueleto) da página e, para isso, utiliza as famosas tags (etiquetas) para sinalizar onde cada tipo de elemento será implementado.
+    * Sendo assim, existem diversas tags de diversas estruturas para montar o esqueleto da página. Mas, como é possível deixar esse parágrafo azul? Ou mudar a fonte da letra? Aí entra a nossa próxima tecnologia: CSS.
+
+## CSS
+* *Cascading Style Sheet*, mais conhecido como CSS, é uma linguagem de estilos que, assim como o HTML, também não é considerada uma linguagem de programação.
+
+* Algo muito importante a ser destacado é a possibilidade de usar mais de um arquivo CSS ao mesmo tempo, para estilizar a aplicação. Daí a palavra “cascata”. Isso permite várias interações diferentes, porém é preciso tomar cuidado para não se perder e deixar o código confuso, seguindo sempre as regras para isso.
+
+* Esse é o resultado do CSS. Ele dá atratividade à sua criação web. Mas ainda deixa a página engessada, pois não pode dar movimento. 
+
+## JAVASCRIPT
+
+* Para completar a grande tríade do desenvolvimento front-end, temos o Javascript, a única linguagem de programação das 3 tecnologias citadas. Implementa funcionalidades dinâmicas.
+
+* Adiciona movimento às páginas web, além de permitir o processamento e transformação de dados enviados e recebidos. Ele permite criar conteúdos que se atualizam de forma dinâmica e animada, dando vida às aplicações que antes eram apenas estruturadas com HTML de forma estática.
+
+## Exemplo
+
+![Exemplo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcave.vn%2Fbai-viet%2Ftu-hoc-lap-trinh-web-voi-laravel-vue-va-tailwind-css-2-so-bo-ve-html-css-va-js&psig=AOvVaw0N4yZZUeRrGq-9LhJCd-lN&ust=1625662898604000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDY87DAzvECFQAAAAAdAAAAABAJ)
